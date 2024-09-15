@@ -1,6 +1,6 @@
 # GitHub User Activity
 
-This project is a console application that retrieves GitHub user activity using the GitHub API. It provides insights into the user's activity on GitHub, including recent commits, issues, and pull requests.
+This project is a console application that retrieves GitHub user activity using the GitHub API. It provides insights into the user's activity on GitHub, including recent commits, issues, and pull requests. Sample solution for the [github-user-activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## Features
 
